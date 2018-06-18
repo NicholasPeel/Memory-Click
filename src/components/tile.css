@@ -1,0 +1,10 @@
+.tileDiv{
+    display: inline;
+}
+.tileIMG{
+    margin: 10px 10px 10px 10px;
+   
+}
+img:hover{
+     border: solid 2px red;
+}
